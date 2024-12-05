@@ -1,31 +1,31 @@
 [
   {
     "remote"      : "github",
-    "repository"  : "RisingOSS-Devices/android_device_realme_RM6785-common",
+    "repository"  : "RisingTechOSS-Devices/device_realme_RM6785-common",
     "branch"      : "fifteen",
     "target_path" : "device/realme/RM6785-common"
   },
   {
     "remote"      : "github",
-    "repository"  : "realme-mt6785-devs/proprietary_vendor_realme_RM6785-common",
-    "branch"      : "lineage-22",
+    "repository"  : "RisingTechOSS-Devices/vendor_realme_RM6785-common",
+    "branch"      : "fifteen",
     "target_path" : "vendor/realme/RM6785-common"
   },
   {
     "remote"      : "github",
-    "repository"  : "YAAP/hardware_mediatek",
+    "repository"  : "RisingTechOSS-Devices/hardware_mediatek",
     "branch"      : "fifteen",
     "target_path" : "hardware/mediatek"
   },
   {
     "remote"      : "github",
-    "repository"  : "realme-mt6785-devs/android_kernel_realme_mt6785",
-    "branch"      : "lineage-21",
+    "repository"  : "RisingTechOSS-Devices/android_kernel_realme_mt6785",
+    "branch"      : "fifteen",
     "target_path" : "kernel/realme/mt6785"
   },
   {
     "remote"      : "github",
-    "repository"  : "YAAP/device_mediatek_sepolicy_vndr",
+    "repository"  : "RisingTechOSS-Devices/device_mediatek_sepolicy_vndr",
     "branch"      : "fifteen",
     "target_path" : "device/mediatek/sepolicy_vndr"
   }
